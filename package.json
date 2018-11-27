@@ -1,0 +1,10 @@
+{
+  "name": "ignboards-markup-parser",
+  "version": "3.0.0",
+  "description": "various parsers for IGN Boards markup",
+  "dependencies": {
+    "jsdom": "^13.0.0"
+  },
+  "devDependencies": {},
+  "author": "Derek Davenport"
+}
